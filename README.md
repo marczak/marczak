@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**marczak/marczak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - 🔭 I’m currently working on -->
+- 🌱 I’m currently learning
+    - Yes, I’m always currently learning—it’s important!
+    - Specifically, I’m finally digging into Swift...I think it’s stable now
+- 💬 Ask me about:
+    - macOS (Deploy/management, inner workings, etc.)
+    - Security
+    - Audio gear, particularly microphones, audio engineering
+    - Photography, light, and cameras
+    - Running/running gear
+- 📫 How to reach me:
+    - @marczak on Twitter
+    - @marczak@mastodon.social on Mastodon
+- Blog: 
+[https://www.radiotope.com/blog](https://www.radiotope.com/blog)

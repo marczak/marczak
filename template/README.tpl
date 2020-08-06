@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<img align="right" src="https://raw.githubusercontent.com/marczak/marczak/master/assets/marczak64.png" width="260">
-
+<img align="right" src="https://raw.githubusercontent.com/marczak/marczak/master/assets/marczak64.png" width="460">
 <!-- - 🔭 I’m currently working on -->
 ### 🌱 I’m currently learning
 - Yes, I’m always currently learning—it’s important!
